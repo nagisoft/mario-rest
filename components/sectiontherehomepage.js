@@ -1,5 +1,4 @@
 import Image from "next/image";
-//import Image1 from "../public/img23.jpg";
 
 const ContentThere = () => {
   return (
@@ -11,7 +10,6 @@ const ContentThere = () => {
         </p>
       </div>
       <div className="">
-        {/* <Image src={Image1} alt="Picture of the author" /> */}
       </div>
     </div>
   );
