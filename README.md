@@ -13,7 +13,7 @@ This is a draft React Template Build using Next.Js
 
 ##INDEX PAGE
 
-![Screenshot](./index1.gif)
+![Screenshot](./public/index1.gif)
 
 
 
