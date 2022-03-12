@@ -2,7 +2,7 @@
 
 ## Mario Restaurant Template
 
-This is a draft React Template Build using Next.Js
+This is a draft React Template Build using Next.Js , Mobile Friendly/Responsive
 
 - [Demo Website Mario](https://mario-restra.vercel.app/)
 
