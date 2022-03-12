@@ -1,11 +1,13 @@
 import React from "react";
 import GoogleMapReact from "google-map-react";
 import { FaHashtag } from "react-icons/fa";
+const { NEXT_PUBLIC_GOOGLE } = process.env
+
 const map = ({ location, zoomLevel }) => (
   <div className="map">
     <div className="google-map">
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyBREQuKF_995d_LQO8YZ2cODyWInCCvhCg" }}
+        bootstrapURLKeys={{ key: NEXT_PUBLIC_GOOGLE }}
         defaultCenter={location}
         defaultZoom={zoomLevel}
       >
