@@ -19,13 +19,13 @@ This is a draft React Template Build using Next.Js
 
 ##ABOUT US PAGE
 
-![Screenshot](./restr2.JPG)
+![Screenshot](./public/restr2.JPG)
 
 
 
 ##CONTACT PAGE
 
-![Screenshot](./contact.gif)
+![Screenshot](./public/contact.gif)
 
 
 
