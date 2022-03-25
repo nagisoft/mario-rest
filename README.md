@@ -35,6 +35,7 @@ This is a draft React Template Build using Next.Js , Mobile Friendly/Responsive
 - ES6+ ; JavaScript
 - React / NextJS
 - Google Maps API
+- TailwindCss
 
 ## Author
 
